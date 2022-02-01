@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="updataDatabaseVB" size="400.000000 400.000000" />
+    <ImageTarget name="RAM" size="400.000000 400.000000" />
+    <ImageTarget name="powerSupply" size="400.000000 400.000000" />
+    <ImageTarget name="nicCARD" size="400.000000 400.000000" />
+    <ImageTarget name="motherboard" size="400.000000 400.000000" />
+    <ImageTarget name="hdd" size="400.000000 400.000000" />
+    <ImageTarget name="fan" size="400.000000 400.000000" />
+    <ImageTarget name="deleteDatabaseVB" size="400.000000 400.000000" />
+    <ImageTarget name="CPUintel" size="400.000000 400.000000" />
+    <ImageTarget name="addDatabaseVB" size="400.000000 400.000000" />
+    <ImageTarget name="adapterCard" size="400.000000 400.000000" />
+  </Tracking>
+</QCARConfig>
